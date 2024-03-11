@@ -1,0 +1,12 @@
+dev.flutter.integration_test-jetified-annotation-experimental-1.1.0-0 C:\Users\misha\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+dev.flutter.integration_test-core-1.6.0-1 C:\Users\misha\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+dev.flutter.integration_test-jetified-window-1.0.0-beta04-2 C:\Users\misha\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+dev.flutter.integration_test-jetified-window-java-1.0.0-beta04-3 C:\Users\misha\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+dev.flutter.integration_test-pngs-4 C:\Users\misha\StudioProjects\news\homework1\build\integration_test\generated\res\pngs\release
+dev.flutter.integration_test-resValues-5 C:\Users\misha\StudioProjects\news\homework1\build\integration_test\generated\res\resValues\release
+dev.flutter.integration_test-rs-6 C:\Users\misha\StudioProjects\news\homework1\build\integration_test\generated\res\rs\release
+dev.flutter.integration_test-mergeReleaseResources-7 C:\Users\misha\StudioProjects\news\homework1\build\integration_test\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.flutter.integration_test-mergeReleaseResources-8 C:\Users\misha\StudioProjects\news\homework1\build\integration_test\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.flutter.integration_test-merged_res-9 C:\Users\misha\StudioProjects\news\homework1\build\integration_test\intermediates\merged_res\release
+dev.flutter.integration_test-main-10 C:\Users\misha\dev\flutter\packages\integration_test\android\src\main\res
+dev.flutter.integration_test-release-11 C:\Users\misha\dev\flutter\packages\integration_test\android\src\release\res
